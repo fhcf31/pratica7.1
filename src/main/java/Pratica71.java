@@ -15,7 +15,7 @@ import utfpr.ct.dainf.if62c.pratica.JogadorComparator;
 import utfpr.ct.dainf.if62c.pratica.Time;
 
 
-public class Pratica62 {
+public class Pratica71 {
 
     public static void main(String[] args) {
         
